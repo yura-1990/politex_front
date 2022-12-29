@@ -1,0 +1,196 @@
+{
+  "header": {
+    "center": {
+      "titleT": "Islom Karimov nomidagi",
+      "titleB": "Toshkent Davlat Texnika Universiteti",
+      "titleMT": "Toshkent Davlat ",
+      "titleMB": "Texnika Universiteti",
+      "header-center-nav": {
+        "item-1": "Moliyaviy Faoliyat",
+        "item-2": "Elektron Kutubxona",
+        "item-3": "Tayyorlov kursi",
+        "item-4": "Hemis"
+      }
+    },
+    "header__bottom__nav": {
+      "item-1": "Universitet",
+      "item-2": "Tuzilma",
+      "item-3": "Faoliyat",
+      "item-4": "Talabalar",
+      "item-5": "Ilmiy Faoliyat",
+      "item-6": "Abituriyent",
+      "item-7": "Korrupsiyasiz soha",
+      "item-8": "Yangiliklar"
+    },
+    "header__bottom__nav__item__menu": {
+      "menu-1": {
+        "item-1": "Rektor Tabrigi",
+        "item-2": "Rekvizitlar",
+        "item-3": "Universitet nizomi",
+        "item-4": "Rektor virtual qabulxonasi",
+        "item-5": "Me’yoriy xujjatlar",
+        "item-6": "Universitet tarixi"
+      },
+      "menu-2": {
+        "item-1": "Rektorat",
+        "item-2": "Markazlar",
+        "item-3": "Bo’limlar",
+        "item-4": "Fakultetlar",
+        "item-5": "Kafedralar",
+        "item-6": "Filiallar",
+        "item-7": "TDTU tuzilmasi"
+      },
+      "menu-3": {
+        "item-1": "Fan va innovatsiya",
+        "item-2": "Moliyaviy faoliyat",
+        "item-3": "Yoshlar bilan ishlash",
+        "item-4": "Madaniy-Ma’rifiy",
+        "item-5": "Xalqaro aloqalar"
+      },
+      "menu-4": {
+        "item-1": "Bakalavriat",
+        "item-2": "Magistratura",
+        "item-3": "Kechki ta’lim",
+        "item-4": "Sirtqi ta’lim",
+        "item-5": "Bitiruvchilar klubi"
+      },
+      "menu-5": {
+        "item-1": "Texnika yulduzlari",
+        "item-2": "Yosh texnika yulduzlari",
+        "item-3": "Ta’lim tizimida ijtimoiy gumanitar fanlar",
+        "item-4": "Mahorat darslari"
+      },
+      "menu-6": {
+        "item-1": "Bakalavriat",
+        "item-2": "Magistratura",
+        "item-3": "Sirtqi va kechki ta’lim shakillari",
+        "item-4": "Qo’shma ta’lim dasturlari",
+        "item-5": "Xorijiy Fuqarolar"
+      },
+      "menu-7": {
+        "item-1": "TDTU davlat xaridlariga oid tuzilgan shartnomalar",
+        "item-2": "Xodimlarning akademik profili",
+        "item-3": "Ish haqini hisoblash va mukofotlarni taqsimlash qoidalari",
+        "item-4": "Ta'lim yo'nalishlari va mutaxassisliklarning malaka talablari",
+        "item-5": "Muassasa byudjeti",
+        "item-6": "Professor-o'qituvchilarga qo'yilgan talablar",
+        "item-7": "Fan dasturlari",
+        "item-8": "Korrupsiyaga oid holatlar bo'yicha talablar va o'qituvchilarning to'g'ridan to'g'ri muassasai rahbariyatga anonim hamda jamoviy murojaat qilish imkoniyatini",
+        "item-9": "Namunaviy oraliq va yakuniy nazorat savollarini semestr boshlangandan so'ng bir oy ichida web-saytga joylashtirish"
+      },
+      "menu-8": {
+        "item-1": "Yangiliklar",
+        "item-2": "Tadbirlar",
+        "item-3": "E’lonlar",
+        "item-4": "Sport"
+      }
+    },
+    "header__sub__menu": {
+      "menu-1": {
+        "item-1": "Axborot resurs markazi",
+        "item-2": "Raqamki ta’lim texnologiayalari markazi",
+        "item-3": "Kadrlar malakasini oshirish va qayta tayyorlash o’quv markazi",
+        "item-4": "O’zbek-Yapon yoshlar innovatsiya markazi",
+        "item-5": "Sanoat energiya auditi \namaliy-o’quv markazi"
+      },
+      "menu-2": {
+        "item-1": "Magistratura tizimi",
+        "item-2": "Sirtqi bo’limi",
+        "item-3": "Ilmiy tadqiqotlar, innovatsiyalar va ilmiy-pedagogik kadrlar tayyorlash bo’limi",
+        "item-4": "O’quv uslubiy boshqarma",
+        "item-5": "Ichki nazorat va monitoring bo’limi",
+        "item-6": "Ilmiy bo’limi",
+        "item-7": "Iqtidorli talabalarning \nilmiy-tadqiqot faoliyatini tashkil etish bo’limi",
+        "item-8": "Xodimlar bo’limi",
+        "item-9": "Yoshlar ittifoqi bo’limi",
+        "item-10": "Buxgalteriya bo’limi",
+        "item-11": "Buyurtmalar portfelini \nshakllantirish, bitiruvchilarni \nishga taqsimlashva monitoring\nbo’limi",
+        "item-12": "sanoat iqtisodiyoti bo’limi"
+      },
+      "menu-3": {
+        "item-1": "Islom Karimov nomidagi Toshkent davlat texnika universiteti Olmaliq filiali",
+        "item-2": "Islom Karimov nomidagi Toshkent davlat texnika universiteti qoqon filiali",
+        "item-3": "Islom Karimov nomidagi Toshkent davlat texnika universiteti termiz filiali"
+      },
+      "menu-4": {
+        "item-1": "Fan",
+        "item-2": "Innovatsiya",
+        "item-3": "Doktorantura"
+      },
+      "menu-5": {
+        "item-1": "Xalqaro hamkorlik bo’limi",
+        "item-2": "Creative spark",
+        "item-3": "Erasmus",
+        "item-4": "Mechauz",
+        "item-5": "Space.com",
+        "item-6": "Ka107"
+      }
+    },
+    "search": "Qidirish"
+  },
+  "pages": {
+    "university": {
+      "rector-virtual-reception-title": "Rektor virtual qabulxonasi",
+      "rector-congratulation-title": "Rektor tabrigi",
+      "requisites-title": "Rekvizitlar",
+      "charter-title": "Universitet nizomi",
+      "regulatory-title": "Me'yoriy hujjatlar",
+      "history-title": "Universitet tarixi",
+      "virtual-reception": {
+        "verification": "Tekshirish amalga oshmadi",
+        "labels": {
+          "item-1": "Familiya Ism",
+          "item-2": "Telefon raqami",
+          "item-3": "Mavzu",
+          "item-4": "Matn",
+          "item-5": "Faylni yuklash",
+          "item-6": "Verifikatsiya"
+        },
+        "inputs": {
+          "item-1": "Kodni kiriting",
+          "item-2": "Tasdiqlash"
+        }
+      }
+    }
+  },
+  "home": {
+    "Kafedralar": "Kafedralar",
+    "Fakultetlar": "Fakultetlar",
+    "Professor": "Professor O’qituvchilar",
+    "Doktarantlar": "Doktarantlar",
+    "Talabalar": "Talabalar",
+    "Interaktiv": "Interaktiv Xizmatlar"
+  },
+  "footer": {
+    "Havolalar": "Foydali Havolalar",
+    "Tashrif": "Tashrif buyurish",
+    "Qabul": "Qabul",
+    "Contact": "Aloqa",
+    "Ijtimoiy": "Ijtimoiy Tarmoqlarda biz"
+  },
+  "bayrog1": "O’zbekistor Respublikasi davlat Bayrog’i",
+  "bayrog": " “O’zbekiston Respublikasi Davlat bayrog’i to’g’risida”gi qonun 1991-yil 18-noyabrda O’zbekiston Respublikasi Oliy Kengashining navbatdan tashqari o’tkazilgan VII sessiyasida qabul qilingan. <br /> <br /> Davlat bayrog’i va uning ramzi bugungi O’zbekiston sarhadida qadimda mavjud bo’lgan davlatlar bilan tarixan bog’liqligini anglatadi hamda respublikaning milliy-madaniy an’analarini o’zida mujassamlashtiradi. <br /> <br /> Bayroqdagi moviy rang tiriklik mazmuni aks etgan mangu osmon va obihayot ramzi. Timsollar tilida bu – yaxshilikni, donishmandlikni, halollikni, shon-shuhrat va sadoqatni bildiradi. Binobarin, Amir Temur davlati bayrog’ining rangi ham moviy rangda edi. <br /> <br /> Bayroqdagi oq rang – muqaddas tinchlik ramzi bo’lib, u kun charog’onligi va koinot yoritkichlari bilan uyg’unlashib ketadi. Oq rang – poklik, beg’uborlik, soflikni, orzu va hayollar tozaligi, ichki go’zallikka intilishning timsoli. <br /> <br /> <b className='text-green-900'>Yashil rang</b> – tabiatning yangilanish ramzi. U ko’pgina xalqlarda navqironlik, umid va shodumonlik timsoli hisoblanadi. <br /> <br /> <b className='text-red-900'>Qizil chiziqlar</b> – vujudimizda jo’shib oqayotgan hayotiy qudrat irmoqlarini anglatadi. <br /> <br /> Navqiron yarim oy tasviri bizning tarixiy an’analarimiz bilan bog’liq. Ayni paytda u qo’lga kiritilgan mustaqilligimiz ramzi ham. <br /> <br /> Yulduzlar barcha uchun ruhoniy, ilohiy timsol sanalgan. O’zbekiston Respublikasi Davlat bayrog’idagi 12 yulduz tasviri ham tarixiy an’analarimiz, qadimgi yilnomamizga bevosita aloqador. Bizning o’n ikki yulduzga bo’lgan e’tiborimiz O’zbekiston sarhadidagi qadimgi davlatlar ilmiy tafakkurida nujum ilmi taraqqiy etganligi bilan ham izohlanadi. <br /> <br /> Davlat bayrog’imizdagi 12 yulduz tasvirini o’zbek xalqi madaniyatining qadimiyligi, uning komillikka, o’z tuprog’ida saodatga intilishi ramzi sifatida tushunish lozim.",
+  "gerb1": "O’ZBEKISTON RESPUBLIKASINING DAVLAT GERBI",
+  "gerb": "“O’zbekiston Respublikasi Davlat gerbi to’g’risida”gi Qonun 1992-yil 2-iyulda O’zbekiston Respublikasi Oliy Kengashining X-sessiyasida qabul qilingan. <br /> <br /> O’zbekiston Respublikasining Davlat gerbi gullagan vodiy uzra charaqlab turgan quyosh tasviridan hamda so’l tomonida bug’doy boshoqlari, o’ng tomonida ochilgan paxta chanoqlari suvrati tushirilgan chambardan iborat. <br /> <br /> Gerbning yuqori qismida respublika jipsligining ramzi sifatida sakkiz qirrali yulduz tasvirlangan: sakkiz qirra ichida joylashgan yarim oy va yulduz musulmonlarning qutlug’ ramzidir. <br /> <br /> Gerbning markazida himmat, olijanoblik va fidoyilik timsoli bo’lgan afsonaviy Xumo qushi qanotlarini yozib turibdi. Ushbu ramz va timsollar xalqimizning tinchlik, yaxshilik, baxt-saodat, farovonlik yo’lidagi orzu-umidlarini ifodalaydi. <br /> <br /> Gerbning pastki qismida respublika Davlat bayrog’ini ifoda etuvchi chambar lentasining bandiga “O’zbekiston” deb yozib qo’yilgan.",
+  "madhiya1": "O’zbekistor Respublikasi davlat Madhiyasi",
+  "madhiya": " “O’zbekiston Respublikasining davlat madhiyasi to’g’risida”gi Qonun 1992-yil 10-dekabrda O’zbekiston Respublikasi Oliy Kengashining o’n birinchi sessiyasida qabul qilingan. <br /> <br /> Mutal Burhonov musiqasi <br /> Abdulla Oripov so’zi <br /> <br /> <div className='text-center'> Serquyosh hur o’lkam, elga baxt, najot, <br /> Sen o’zing do’stlarga yo’ldosh, mehribon! <br /> Yashnagay to abad ilmu fan, ijod, <br /> Shuhrating porlasin toki bor jahon! <br /> <br /> Oltin bu vodiylar – jon O’zbekiston, <br /> Ajdodlar mardona ruhi senga yor! <br /> Ulug’ xalq qudrati jo’sh urgan zamon, <br /> Olamni mahliyo aylagan diyor! <br /> <br /> Bag’ri keng o’zbekning o’chmas iymoni, <br /> Erkin, yosh avlodlar senga zo’r qanot! <br /> Istiqlol mash’ali tinchlik posboni, <br /> Xaqsevar, ona yurt, mangu bo’l obod! <br /> <br /> Oltin bu vodiylar – jon O’zbekiston, <br /> Ajdodlar mardona ruhi senga yor! <br /> Ulug’ xalq qudrati jo’sh urgan zamon, <br /> Olamni mahliyo aylagan diyor! <br />",
+  "batafsil": "Batafsil",
+  "barchasi": "Barchasini ko’rish",
+  "bitiruvchi": "Biznning Bitiruvchilar",
+  "person":{
+    "Lavozimi":"Lavozimi",
+    "darajasi":"Ilmiy darajasi",
+    "vaqti":"Qabul vaqti",
+    "Telefon":"Telefon",
+    "mail":"E mail"
+  },
+  "lavhalar":"Foto lavhalar",
+  "faoliyat":"2+2 qo’shma dastur",
+  "pochta":"Korporativ Elektron Pochta",
+  "Onlayn":"Onlayn Kutubxona",
+  "shiori":"Universitet shiori",
+  "Boglanish":"Bog’lanish",
+  "Grand":"Grand loyihalar",
+  "Tayyorlov":"Tayyorlov kursi",
+  "Hodimlar":"Hodimlar"
+}

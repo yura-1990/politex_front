@@ -1,0 +1,30 @@
+import {getFontSize} from "@/utils/storages/fontSize";
+
+export const fontMontserrat = 'Montserrat';
+
+export const fontSize12 = (12 + getFontSize()) + "px";
+export const fontSize14 = (14 + getFontSize()) + "px";
+export const fontSize15 = (15 + getFontSize()) + "px";
+export const fontSize16 = (16 + getFontSize()) + "px";
+export const fontSize18 = (18 + getFontSize()) + "px";
+export const fontSize20 = (20 + getFontSize()) + "px";
+export const fontSize22 = (22 + getFontSize()) + "px";
+export const fontSize24 = (24 + getFontSize()) + "px";
+export const fontSize26 = (26 + getFontSize()) + "px";
+export const fontSize28 = (28 + getFontSize()) + "px";
+export const fontSize30 = (30 + getFontSize()) + "px";
+export const fontSize32 = (32 + getFontSize()) + "px";
+export const fontSize34 = (34 + getFontSize()) + "px";
+export const fontSize36 = (36 + getFontSize()) + "px";
+export const fontSize38 = (38 + getFontSize()) + "px";
+export const fontSize40 = (40 + getFontSize()) + "px";
+export const fontSize42 = (42 + getFontSize()) + "px";
+export const fontSize44 = (44 + getFontSize()) + "px";
+export const fontSize46 = (46 + getFontSize()) + "px";
+export const fontSize48 = (48 + getFontSize()) + "px";
+export const fontSize50 = (50 + getFontSize()) + "px";
+export const fontSize52 = (52 + getFontSize()) + "px";
+export const fontSize54 = (54 + getFontSize()) + "px";
+export const fontSize56 = (56 + getFontSize()) + "px";
+export const fontSize58 = (58 + getFontSize()) + "px";
+export const fontSize60 = (60 + getFontSize()) + "px";

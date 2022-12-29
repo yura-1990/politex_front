@@ -1,0 +1,196 @@
+{
+  "header": {
+    "center": {
+      "titleT": "In the name of Islam Karimov",
+      "titleB": "Tashkent State Technical University",
+      "titleMT": "Tashkent State",
+      "titleMB": "Technical University",
+      "header-center-nav": {
+        "item-1": "Financial Activity",
+        "item-2": "Electronic Library",
+        "item-3": "Preparatory course",
+        "item-4": "Hemis"
+      }
+    },
+    "header__bottom__nav": {
+      "item-1": "University",
+      "item-2": "Structure",
+      "item-3": "Activity",
+      "item-4": "Students",
+      "item-5": "Scientific Activity",
+      "item-6": "Applicant",
+      "item-7": "Corruption free sector",
+      "item-8": "News"
+    },
+    "header__bottom__nav__item__menu": {
+      "menu-1": {
+        "item-1": "Rector's greetings",
+        "item-2": "Requisites",
+        "item-3": "University Charter",
+        "item-4": "Rector virtual reception",
+        "item-5": "Regulatory documents",
+        "item-6": "History of the university"
+      },
+      "menu-2": {
+        "item-1": "Rectorate",
+        "item-2": "Centers",
+        "item-3": "Sections",
+        "item-4": "Faculties",
+        "item-5": "Departments",
+        "item-6": "Branches",
+        "item-7": "TSTU structure"
+      },
+      "menu-3": {
+        "item-1": "Science and innovation",
+        "item-2": "Financial activity",
+        "item-3": "Working with young people",
+        "item-4": "Cultural-Educational",
+        "item-5": "International relations"
+      },
+      "menu-4": {
+        "item-1": "Undergraduate",
+        "item-2": "Master's",
+        "item-3": "Evening education",
+        "item-4": "External education",
+        "item-5": " Undergraduate Club"
+      },
+      "menu-5": {
+        "item-1": "Tech stars",
+        "item-2": "Young tech stars",
+        "item-3": "Social humanitarian sciences in the educational system",
+        "item-4": "Skill classes"
+      },
+      "menu-6": {
+        "item-1": "Undergraduate",
+        "item-2": "Master's",
+        "item-3": "Extramural and evening forms of education",
+        "item-4": "Joint educational programs",
+        "item-5": "Foreign citizens"
+      },
+      "menu-7": {
+        "item-1": "TSTU state procurement contracts",
+        "item-2": "Academic profile of staff",
+        "item-3": "Rules for calculation of wages and distribution of awards",
+        "item-4": "Qualification requirements of educational areas and specialties",
+        "item-5": "Institutional budget",
+        "item-6": "Requirements for professors and teachers",
+        "item-7": "Science programs",
+        "item-8": "Requests for corruption cases and the ability of teachers to make anonymous and public appeals directly to the management of the institution",
+        "item-9": "Posting sample midterm and final control questions on the website within one month after the semester begins"
+      },
+      "menu-8": {
+        "item-1": "News",
+        "item-2": "Congratulations",
+        "item-3": "Announcements",
+        "item-4": "Sports"
+      }
+    },
+    "header__sub__menu": {
+      "menu-1": {
+        "item-1": "Information resource center",
+        "item-2": "Center for digital educational technologies",
+        "item-3": "Training center for training and retraining of personnel",
+        "item-4": "Uzbek-Japanese youth innovation center",
+        "item-5": "Industrial energy audit model training center"
+      },
+      "menu-2": {
+        "item-1": "Master's system",
+        "item-2": "External department",
+        "item-3": "Department of scientific research, innovation and training of scientific and pedagogical personnel",
+        "item-4": "Educational Methodology Department",
+        "item-5": "Internal control and monitoring department",
+        "item-6": "Scientific department",
+        "item-7": "Department of organization of scientific-research activities of talented students",
+        "item-8": "Personnel department",
+        "item-9": "Department of the Youth Union",
+        "item-10": "Accounting department",
+        "item-11": "Forming a portfolio of orders, assigning graduates to jobs and monitoring",
+        "item-12": "Department of industrial economy"
+      },
+      "menu-3": {
+        "item-1": "Almalik branch of Islam Karimov Tashkent State Technical University",
+        "item-2": "Tashkent State Technical University named after Islam Karimov, Kagan branch",
+        "item-3": "Termiz Branch of Tashkent State Technical University named after Islam Karimov"
+      },
+      "menu-4": {
+        "item-1": "Science",
+        "item-2": "Innovation",
+        "item-3": "Doctorate"
+      },
+      "menu-5": {
+        "item-1": "Department of international cooperation",
+        "item-2": "Creative spark",
+        "item-3": "Erasmus",
+        "item-4": "Mechauz",
+        "item-5": "Space.com",
+        "item-6": "Ka107"
+      }
+    },
+    "search": "Search"
+  },
+  "pages": {
+    "university": {
+      "rector-congratulation-title": "Rector's congratulation",
+      "rector-virtual-reception-title": "Rector's virtual lobby",
+      "requisites-title": "Requisites",
+      "charter-title": "University charter",
+      "regulatory-title": "Regulatory documents",
+      "history-title": "History of the university",
+      "virtual-reception": {
+        "verification": "Verification failed",
+        "labels": {
+          "item-1": "Surname Name",
+          "item-2": "Phone number",
+          "item-3": "Subject",
+          "item-4": "Text",
+          "item-5": "Upload file",
+          "item-6": "Verification"
+        },
+        "inputs": {
+          "item-1": "Enter the code",
+          "item-2": "Confirmation"
+        }
+      }
+    }
+  },
+  "home": {
+    "Kafedralar": "Departments",
+    "Fakultetlar": "Faculties",
+    "Professor": "Professor Teachers",
+    "Doktarantlar": "Doctoral students",
+    "Talabalar": "Students",
+    "Interaktiv": "Interactive Services"
+  },
+  "footer": {
+    "Havolalar": "Useful Links",
+    "Tashrif": "Order a visit",
+    "Qabul": "Admission",
+    "Contact": "Contact",
+    "Ijtimoiy": "We in Social Networks"
+  },
+  "bayrog1": "State flag of the Republic of Uzbekistan",
+  "bayrog": " The law about “The State Flag of the Republic of Uzbekistan” was adopted on November 18 in 1991 in the 8th session of the Supreme Council of Uzbekistan. <br /> <br /> The flag of our country is a symbol of the sovereignty of the Republic. The national flag of the Republic represents the country internationally when official delegations from Uzbekistan visit foreign countries, as well as at conferences, world exhibition, and sports competitions. <br /> <br /> The national flag of the Republic is a right-angled colored cloth of three horizontal stripes: blue, white and green. <br /> <br /> Blue is the symbol of the sky and water, which are the main source of life. Mainly, blue was the color of the state flag of Temur. <br /> <br /> White is the traditional symbol of peace and good luck, as Uzbek people say “Ok yul”. <br /> <br /> <b className='text-green-900'>Green</b> is the color of nature and new life and good harvest. <br /> <br /> Two thin <b className='text-red-900'>red</b> stripes symbolize the power of life. <br /> <br /> There is a new moon, which symbolizes the newly independent Republic. <br /> <br /> There are twelve stars, which stand for spiritual sign. The stars also signify the historical traditions of the Uzbek people, as well as ancient solar calendar. A particular attention to twelve stars in the flag is explained yet by another suggestion, that in the states previously existed in the territory of modern Uzbekistan the scientific thought as “Astrology” had seen its rise. The stars in the Uzbek flag also point to the ancient roots of local culture, the aspirations of Uzbek people towards perfection and loyalty.",
+  "gerb1": "STATE COAT OF ARMS OF THE REPUBLIC OF UZBEKISTAN",
+  "gerb": " The law about “The State Emblem” was approved by the 10-th session of the Supreme Council of the Republic of Uzbekistan on July 2, 1992. <br /> <br /> The new state emblem of the Republic of Uzbekistan was created to reflect the many centuries of experience of the Uzbek people. <br /> <br /> The state emblem of the Republic presents the image of the rising sun over a flourishing valley. Two rivers run through the valley, representing the Syrdarya and Amudarya. The emblem is bordered by wheat on the right side and branches of cotton with opened cotton bolls on the left side. <br /> <br /> The eight-angle star is at the top of the emblem, symbolizing the unity and confirmation of the republic. The crescent and star inside the eight-pointed star are the sacred symbols of Islam. The mythical bird Semurg with outstretched wings is placed in the center of the emblem as the symbol of the national Renaissance. The entire composition aims to express to desire of the Uzbek people for peace, happiness and prosperity. At the bottom of the emblem inscribed the word “Uzbekistan” written in Uzbek on a ribbon in the national colors of the flag.",
+  "madhiya1": "National Anthem of the Republic of Uzbekistan",
+  "madhiya": " The law “On national anthem of the Republic of Uzbekistan” was adopted on the December 10, 1992 at the 11th session of the Supreme Council of Uzbekistan. <br /> <br /> Poem by A. Aripov <br /> Music by M. Burkhanov <br /> <br /> <div className='text-center'> My country, sunny and free, salvation to your people, <br /> You are a warmhearted companion to the friends <br /> Flourish eternally with knowledge and invention, <br /> May your fame shine as long as the world exists! <br /> <br /> These golden valleys-dear Uzbekistan, <br /> Manly spirit of ancestors is companion to you! <br /> When the great power of people became exuberant <br /> You are the country that amazes the world! <br /> <br /> Belief of generous Uzbek does not die out, <br /> Free, young children are a strong wing for you! <br /> The torch of independence, guardian of peace, <br /> Just motherland be eternally prosperous! <br /> <br /> These golden valleys-dear Uzbekistan, <br /> Manly spirit of ancestors is companion to you! <br /> When the great power of people became exuberant <br /> You are the country that amazes the world! <br />",
+  "batafsil": "More",
+  "barchasi": "See all",
+  "bitiruvchi": "Our Alumni",
+  "person":{
+    "Lavozimi":"Position",
+    "darajasi":"Academic degree",
+    "vaqti":"Reception time",
+    "Telefon":"Telephone",
+    "mail":"E mail"
+  },
+  "lavhalar":"Photographs",
+  "faoliyat":"2+2 joint program",
+  "pochta":"Corporate Email",
+  "Onlayn":"Online Library",
+  "shiori":"Motto of the university",
+  "Boglanish":"Connection",
+  "Grand":"Grand projects",
+  "Tayyorlov":"Preparatory course",
+  "Hodimlar":"Employees"
+}

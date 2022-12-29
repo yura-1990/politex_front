@@ -1,0 +1,1 @@
+export const FONTSIZE = 'FONT-SIZE';

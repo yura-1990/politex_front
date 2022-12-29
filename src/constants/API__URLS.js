@@ -1,0 +1,1 @@
+export const imageUrl = "https://homeworking.uz/storage/";
